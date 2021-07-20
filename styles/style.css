@@ -1,0 +1,12 @@
+/* google fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body {
+  font-family: DM Sans, sans-serif !important;
+}
+
+.hero {
+  height: 533px;
+  background-image: url('/images/Rectangle.png');
+}
