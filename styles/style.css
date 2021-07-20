@@ -8,5 +8,5 @@ body {
 
 .hero {
   height: 533px;
-  background-image: url('./images/Rectangle.png');
+  background-image: url("./images/Rectangle.png");
 }
